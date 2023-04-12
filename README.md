@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ahaloui" alt="ahaloui's 42 stats" /></a> -->
-[![<ahaloui>'s 42 stats](https://badge.mediaplus.ma/<theme>/<ahaloui>)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/AYHALOUI"><img src="https://badge.mediaplus.ma/darkblue/ahaloui" alt="ahaloui's 42 stats" /></a>
