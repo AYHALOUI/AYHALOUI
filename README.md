@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm AYMENE HALOUI</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
+
+[![<ahaloui>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayhaloui&label=Profile%20views&color=0e75b6&style=flat" alt="ayhaloui" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
