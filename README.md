@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
 <div align="center">
-    <a href="https://github.com/oakoudad/badge42">
+    <a href="https://github.com/AYHALOUI">
         <img src="https://badge.mediaplus.ma/black/ahaloui" alt="ahaloui's 42 stats" />
     </a>
 </div>
