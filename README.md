@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYMENE HALOUI</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ahaloui" alt="ahaloui's 42 stats" /></a>
 
 [![<ahaloui>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
 
