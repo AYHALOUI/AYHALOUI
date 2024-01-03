@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Java, Angular**
 
+- 💬 Ask me about **C, C++, Java, Angular**
+
 - 📫 How to reach me **halouiaymene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
