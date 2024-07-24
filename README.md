@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AYMENE HALOUI</h1>
-<h3 align="center">A passionate Full-Stack developer from Morocco</h3>
+
 
 <div align="center">
     <a href="https://github.com/AYHALOUI">
@@ -11,11 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Angular**
 
-- 💬 Ask me about **C, C++, Java, Angular**
-
-- 📫 How to reach me **halouiaymene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
